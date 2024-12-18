@@ -117,7 +117,13 @@ while p1 < target_score and p2 < target_score:
         roll2 = dice2[0]
         roll3 = dice3[0]
 
-        print(f"You rolled: {roll1}, {roll2}, {roll3}")
+        #added faces to the rolling line
+        print(f"you rolled:")
+        print(dice_face(roll1))
+        print(dice_face(roll2))
+        print(dice_face(roll3))
+
+
 
         if roll1 == roll2 == roll3:
             print("No points awarded this turn")

@@ -11,12 +11,13 @@
 
 # How to play
 
-- Whoever scores 5 points first wins
+- Whoever scores 10 points first wins
 
-- Players have to roll three dice. If all 3 dice show the same number, the player "Tuples oue" and scores zero points! And if two dice roll the same number, then they are fixed and cannot be rerolled.
+- Players have to roll three dice. If all 3 dice show the same number, the player "Tuples out" and scores zero points! And if two dice roll the same number, they are fixed and cannot be rerolled.
 
 - Players can reroll a non-fixed dice as many times as they want
 
-- When a player chooses to stop rolling, their turn ends, and the score for the turn will be the sum of the three dice
+- When a player chooses to stop rolling, their turn ends and the score for the turn will be the sum of the three dice
 
-- If  s player "Tuples out" at any given time, their score for that turn will be zero
+- If a player "Tuples out" at any given time, their score for that turn will be zero
+- Have Fun!

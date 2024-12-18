@@ -32,6 +32,56 @@ p2 = 0
 
 #plan to add dice faces
 def dice_face(value):
+    if value == 1:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
+    elif value == 2:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
+    elif value == 3:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
+    elif value == 4:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
+
+    elif value == 5:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
+
+    elif value == 6:
+        return """
+        -----
+       |     |
+       |  o  | 
+       |     |
+        -----
+        """
     
 #End game condition
 target_score = 10

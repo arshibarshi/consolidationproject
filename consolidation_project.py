@@ -4,7 +4,12 @@
 import os
 import random
 
+#Welcome screen 
+def welcome():
+    print("hello")
 
+#Callind welcome
+welcome()
 
 #Player(p) scores - begin with zero
 p1 = 0

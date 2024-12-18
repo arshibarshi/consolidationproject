@@ -6,7 +6,22 @@ import random
 
 #Welcome screen 
 def welcome():
-    print("hello")
+    print(""""
+
+                      Hello!
+                   WELCOME TO
+                THE TUPLE OUT GAME
+    Rules:
+    - Roll three dice each turn.
+    - If all three dice match, you "tuple out" and score 0 points.
+    - If two dice match, they are "fixed" and can't be re-rolled.
+    - Re-roll the non-fixed dice to increase your score.
+    - Stop rolling to score the total of all three dice.
+    - First player to reach the target score wins!
+    
+    Good luck and may the best roller win!
+    
+    """)
 
 #Callind welcome
 welcome()

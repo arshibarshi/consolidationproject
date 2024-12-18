@@ -43,43 +43,43 @@ def dice_face(value):
     elif value == 2:
         return """
         -----
-       |     |
-       |  o  | 
-       |     |
+       | o   |
+       |     | 
+       |   o |
         -----
         """
     elif value == 3:
         return """
         -----
-       |     |
+       | o   |
        |  o  | 
-       |     |
+       |   o |
         -----
         """
     elif value == 4:
         return """
         -----
-       |     |
-       |  o  | 
-       |     |
+       | o o |
+       |     | 
+       | o o |
         -----
         """
 
     elif value == 5:
         return """
         -----
-       |     |
+       | o o |
        |  o  | 
-       |     |
+       | o o |
         -----
         """
 
     elif value == 6:
         return """
         -----
-       |     |
-       |  o  | 
-       |     |
+       | ooo |
+       |     | 
+       | ooo |
         -----
         """
     

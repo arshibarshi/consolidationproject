@@ -23,15 +23,18 @@ def welcome():
     
     """)
 
-#Callind welcome
+#Calling welcome
 welcome()
 
 #Player(p) scores - begin with zero
 p1 = 0
 p2 = 0
 
+#plan to add dice faces
+def dice_face(value):
+    
 #End game condition
-target_score = 5
+target_score = 10
 
 #dice - six sides
 dice1 = [1,2,3,4,5,6]
